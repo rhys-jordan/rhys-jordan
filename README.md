@@ -27,5 +27,5 @@ Interned at Thalchemy, focusing on algorithm development.
 🤝 Collaborating: Excited to connect with others passionate about tech!
 
 ## 📫 Let's Connect!
-GitHub: @RhysJordan
-LinkedIn: https://www.linkedin.com/in/rhysejordan/
+* GitHub: @RhysJordan
+* LinkedIn: https://www.linkedin.com/in/rhysejordan/
