@@ -10,8 +10,8 @@ Fun Fact: When I’m not diving into code, you can find me on stage performing i
 
 ## 💡 What I Do
 ### 👩‍💻 Technical Skills:
-Programming Languages: Python, Java, C++, C
-Technologies: TensorFlow, NumPy, Pandas
+* Programming Languages: Python, Java, C++, C
+* Technologies: TensorFlow, NumPy, Pandas
 
 ### 📊 Focus Areas:
 * Machine learning
