@@ -29,16 +29,3 @@ Interned at Thalchemy, focusing on algorithm development.
 ## 📫 Let's Connect!
 GitHub: @RhysJordan
 LinkedIn: https://www.linkedin.com/in/rhysejordan/
-
-
-
-
-
-
-
-
-
-
-
-
-ChatGPT can make mistakes. Che
