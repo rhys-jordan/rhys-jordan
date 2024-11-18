@@ -14,8 +14,8 @@ Programming Languages: Python, Java, C++, C
 Technologies: TensorFlow, NumPy, Pandas
 
 ### 📊 Focus Areas:
-Machine learning
-Data analysis
+* Machine learning
+* Data analysis
 
 ### 🌟 Career Highlights
 Interned at Matrix Industries, focusing on preprocessing schemes for accelerometer data from wrist wearables.
